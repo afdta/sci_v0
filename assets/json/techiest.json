@@ -1,0 +1,142 @@
+[
+  {
+    "sci_rank": 1,
+    "sci": 100,
+    "metro": "San Francisco",
+    "share_crunch": 0.244,
+    "num_advantages": 288
+  },
+  {
+    "sci_rank": 2,
+    "sci": 96.1512,
+    "metro": "New York",
+    "share_crunch": 0.163,
+    "num_advantages": 269
+  },
+  {
+    "sci_rank": 3,
+    "sci": 87.69892,
+    "metro": "Los Angeles",
+    "share_crunch": 0.087,
+    "num_advantages": 200
+  },
+  {
+    "sci_rank": 4,
+    "sci": 84.52528,
+    "metro": "San Jose",
+    "share_crunch": 0.0921,
+    "num_advantages": 167
+  },
+  {
+    "sci_rank": 5,
+    "sci": 78.6336,
+    "metro": "Boston",
+    "share_crunch": 0.058,
+    "num_advantages": 145
+  },
+  {
+    "sci_rank": 6,
+    "sci": 67.89842,
+    "metro": "Chicago",
+    "share_crunch": 0.0299,
+    "num_advantages": 127
+  },
+  {
+    "sci_rank": 7,
+    "sci": 64.03324,
+    "metro": "Seattle",
+    "share_crunch": 0.0286,
+    "num_advantages": 116
+  },
+  {
+    "sci_rank": 8,
+    "sci": 60.5073,
+    "metro": "Austin",
+    "share_crunch": 0.0235,
+    "num_advantages": 121
+  },
+  {
+    "sci_rank": 9,
+    "sci": 57.59227,
+    "metro": "San Diego",
+    "share_crunch": 0.0196,
+    "num_advantages": 87
+  },
+  {
+    "sci_rank": 10,
+    "sci": 56.13895,
+    "metro": "Miami",
+    "share_crunch": 0.0154,
+    "num_advantages": 84
+  },
+  {
+    "sci_rank": 11,
+    "sci": 52.65437,
+    "metro": "Atlanta",
+    "share_crunch": 0.0148,
+    "num_advantages": 85
+  },
+  {
+    "sci_rank": 12,
+    "sci": 50.73162,
+    "metro": "Denver",
+    "share_crunch": 0.0138,
+    "num_advantages": 89
+  },
+  {
+    "sci_rank": 13,
+    "sci": 50.43058,
+    "metro": "Washington, D.C.",
+    "share_crunch": 0.0133,
+    "num_advantages": 72
+  },
+  {
+    "sci_rank": 14,
+    "sci": 49.78422,
+    "metro": "Dallas",
+    "share_crunch": 0.0139,
+    "num_advantages": 82
+  },
+  {
+    "sci_rank": 15,
+    "sci": 46.06521,
+    "metro": "Philadelphia",
+    "share_crunch": 0.0117,
+    "num_advantages": 61
+  },
+  {
+    "sci_rank": 16,
+    "sci": 41.64074,
+    "metro": "Phoenix",
+    "share_crunch": 0.00703,
+    "num_advantages": 56
+  },
+  {
+    "sci_rank": 17,
+    "sci": 41.5135,
+    "metro": "Portland, Ore.",
+    "share_crunch": 0.00658,
+    "num_advantages": 56
+  },
+  {
+    "sci_rank": 18,
+    "sci": 40.30198,
+    "metro": "Boulder, Colo.",
+    "share_crunch": 0.00661,
+    "num_advantages": 49
+  },
+  {
+    "sci_rank": 19,
+    "sci": 40.14438,
+    "metro": "Houston",
+    "share_crunch": 0.00695,
+    "num_advantages": 43
+  },
+  {
+    "sci_rank": 20,
+    "sci": 38.42977,
+    "metro": "Minneapolis, Minn.",
+    "share_crunch": 0.00551,
+    "num_advantages": 41
+  }
+]

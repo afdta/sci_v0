@@ -1,0 +1,20 @@
+[
+  {
+    "correlate": "Average annual wage",
+    "ba_share": 0.4291,
+    "pci": 0.67669,
+    "sci": 0.73006
+  },
+  {
+    "correlate": "Median income",
+    "ba_share": 0.39606,
+    "pci": 0.52168,
+    "sci": 0.59786
+  },
+  {
+    "correlate": "Output per job",
+    "ba_share": 0.31376,
+    "pci": 0.61684,
+    "sci": 0.71569
+  }
+]

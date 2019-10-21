@@ -1,0 +1,596 @@
+[
+  {
+    "cbsa": 41860,
+    "metro": "San Francisco-Oakland-Berkeley, CA",
+    "yf_per1000": 4.19728,
+    "sci": 100
+  },
+  {
+    "cbsa": 35620,
+    "metro": "New York-Newark-Jersey City, NY-NJ-PA",
+    "yf_per1000": 0.66569,
+    "sci": 96.1512
+  },
+  {
+    "cbsa": 31080,
+    "metro": "Los Angeles-Long Beach-Anaheim, CA",
+    "yf_per1000": 0.52309,
+    "sci": 87.69892
+  },
+  {
+    "cbsa": 41940,
+    "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+    "yf_per1000": 3.72507,
+    "sci": 84.52528
+  },
+  {
+    "cbsa": 14460,
+    "metro": "Boston-Cambridge-Newton, MA-NH",
+    "yf_per1000": 0.96879,
+    "sci": 78.6336
+  },
+  {
+    "cbsa": 16980,
+    "metro": "Chicago-Naperville-Elgin, IL-IN-WI",
+    "yf_per1000": 0.24976,
+    "sci": 67.89842
+  },
+  {
+    "cbsa": 42660,
+    "metro": "Seattle-Tacoma-Bellevue, WA",
+    "yf_per1000": 0.61067,
+    "sci": 64.03324
+  },
+  {
+    "cbsa": 12420,
+    "metro": "Austin-Round Rock-Georgetown, TX",
+    "yf_per1000": 0.93472,
+    "sci": 60.5073
+  },
+  {
+    "cbsa": 41740,
+    "metro": "San Diego-Chula Vista-Carlsbad, CA",
+    "yf_per1000": 0.47477,
+    "sci": 57.59227
+  },
+  {
+    "cbsa": 33100,
+    "metro": "Miami-Fort Lauderdale-Pompano Beach, FL",
+    "yf_per1000": 0.20449,
+    "sci": 56.13895
+  },
+  {
+    "cbsa": 12060,
+    "metro": "Atlanta-Sandy Springs-Alpharetta, GA",
+    "yf_per1000": 0.20663,
+    "sci": 52.65437
+  },
+  {
+    "cbsa": 19740,
+    "metro": "Denver-Aurora-Lakewood, CO",
+    "yf_per1000": 0.39376,
+    "sci": 50.73162
+  },
+  {
+    "cbsa": 47900,
+    "metro": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "yf_per1000": 0.17384,
+    "sci": 50.43058
+  },
+  {
+    "cbsa": 19100,
+    "metro": "Dallas-Fort Worth-Arlington, TX",
+    "yf_per1000": 0.15766,
+    "sci": 49.78422
+  },
+  {
+    "cbsa": 37980,
+    "metro": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+    "yf_per1000": 0.15365,
+    "sci": 46.06521
+  },
+  {
+    "cbsa": 38060,
+    "metro": "Phoenix-Mesa-Chandler, AZ",
+    "yf_per1000": 0.12278,
+    "sci": 41.64074
+  },
+  {
+    "cbsa": 38900,
+    "metro": "Portland-Vancouver-Hillsboro, OR-WA",
+    "yf_per1000": 0.21998,
+    "sci": 41.5135
+  },
+  {
+    "cbsa": 14500,
+    "metro": "Boulder, CO",
+    "yf_per1000": 1.6636,
+    "sci": 40.30198
+  },
+  {
+    "cbsa": 26420,
+    "metro": "Houston-The Woodlands-Sugar Land, TX",
+    "yf_per1000": 0.08348,
+    "sci": 40.14438
+  },
+  {
+    "cbsa": 33460,
+    "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+    "yf_per1000": 0.12503,
+    "sci": 38.42977
+  },
+  {
+    "cbsa": 29820,
+    "metro": "Las Vegas-Henderson-Paradise, NV",
+    "yf_per1000": 0.10367,
+    "sci": 37.01919
+  },
+  {
+    "cbsa": 39580,
+    "metro": "Raleigh-Cary, NC",
+    "yf_per1000": 0.1978,
+    "sci": 35.99618
+  },
+  {
+    "cbsa": 34980,
+    "metro": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+    "yf_per1000": 0.17553,
+    "sci": 35.5237
+  },
+  {
+    "cbsa": 38300,
+    "metro": "Pittsburgh, PA",
+    "yf_per1000": 0.16396,
+    "sci": 34.37956
+  },
+  {
+    "cbsa": 18140,
+    "metro": "Columbus, OH",
+    "yf_per1000": 0.12601,
+    "sci": 31.87714
+  },
+  {
+    "cbsa": 17140,
+    "metro": "Cincinnati, OH-KY-IN",
+    "yf_per1000": 0.09406,
+    "sci": 31.76109
+  },
+  {
+    "cbsa": 41620,
+    "metro": "Salt Lake City, UT",
+    "yf_per1000": 0.20426,
+    "sci": 31.62619
+  },
+  {
+    "cbsa": 39340,
+    "metro": "Provo-Orem, UT",
+    "yf_per1000": 0.35423,
+    "sci": 31.48848
+  },
+  {
+    "cbsa": 45300,
+    "metro": "Tampa-St. Petersburg-Clearwater, FL",
+    "yf_per1000": 0.07219,
+    "sci": 31.3472
+  },
+  {
+    "cbsa": 12580,
+    "metro": "Baltimore-Columbia-Towson, MD",
+    "yf_per1000": 0.11031,
+    "sci": 31.10585
+  },
+  {
+    "cbsa": 19820,
+    "metro": "Detroit-Warren-Dearborn, MI",
+    "yf_per1000": 0.03624,
+    "sci": 30.11112
+  },
+  {
+    "cbsa": 42220,
+    "metro": "Santa Rosa-Petaluma, CA",
+    "yf_per1000": 0.03394,
+    "sci": 29.50309
+  },
+  {
+    "cbsa": 28140,
+    "metro": "Kansas City, MO-KS",
+    "yf_per1000": 0.07947,
+    "sci": 29.40205
+  },
+  {
+    "cbsa": 16740,
+    "metro": "Charlotte-Concord-Gastonia, NC-SC",
+    "yf_per1000": 0.08032,
+    "sci": 29.29566
+  },
+  {
+    "cbsa": 31700,
+    "metro": "Manchester-Nashua, NH",
+    "yf_per1000": 0.03445,
+    "sci": 27.36741
+  },
+  {
+    "cbsa": 20500,
+    "metro": "Durham-Chapel Hill, NC",
+    "yf_per1000": 0.34824,
+    "sci": 27.33638
+  },
+  {
+    "cbsa": 17460,
+    "metro": "Cleveland-Elyria, OH",
+    "yf_per1000": 0.07757,
+    "sci": 26.63922
+  },
+  {
+    "cbsa": 36740,
+    "metro": "Orlando-Kissimmee-Sanford, FL",
+    "yf_per1000": 0.05186,
+    "sci": 26.63917
+  },
+  {
+    "cbsa": 31540,
+    "metro": "Madison, WI",
+    "yf_per1000": 0.28591,
+    "sci": 26.32754
+  },
+  {
+    "cbsa": 22220,
+    "metro": "Fayetteville-Springdale-Rogers, AR",
+    "yf_per1000": 0.00814,
+    "sci": 26.32481
+  },
+  {
+    "cbsa": 11460,
+    "metro": "Ann Arbor, MI",
+    "yf_per1000": 0.33471,
+    "sci": 26.07603
+  },
+  {
+    "cbsa": 26900,
+    "metro": "Indianapolis-Carmel-Anderson, IN",
+    "yf_per1000": 0.08547,
+    "sci": 25.8144
+  },
+  {
+    "cbsa": 40900,
+    "metro": "Sacramento-Roseville-Folsom, CA",
+    "yf_per1000": 0.04012,
+    "sci": 24.74434
+  },
+  {
+    "cbsa": 13460,
+    "metro": "Bend, OR",
+    "yf_per1000": 0.04563,
+    "sci": 24.60195
+  },
+  {
+    "cbsa": 38860,
+    "metro": "Portland-South Portland, ME",
+    "yf_per1000": 0.01712,
+    "sci": 24.60195
+  },
+  {
+    "cbsa": 14860,
+    "metro": "Bridgeport-Stamford-Norwalk, CT",
+    "yf_per1000": 0.08761,
+    "sci": 24.28385
+  },
+  {
+    "cbsa": 41700,
+    "metro": "San Antonio-New Braunfels, TX",
+    "yf_per1000": 0.03113,
+    "sci": 23.79984
+  },
+  {
+    "cbsa": 12540,
+    "metro": "Bakersfield, CA",
+    "yf_per1000": 0.03186,
+    "sci": 23.67723
+  },
+  {
+    "cbsa": 36420,
+    "metro": "Oklahoma City, OK",
+    "yf_per1000": 0.01995,
+    "sci": 23.66711
+  },
+  {
+    "cbsa": 30700,
+    "metro": "Lincoln, NE",
+    "yf_per1000": 0.05875,
+    "sci": 23.56613
+  },
+  {
+    "cbsa": 33340,
+    "metro": "Milwaukee-Waukesha, WI",
+    "yf_per1000": 0.05206,
+    "sci": 23.56272
+  },
+  {
+    "cbsa": 19780,
+    "metro": "Des Moines-West Des Moines, IA",
+    "yf_per1000": 0.03637,
+    "sci": 23.06644
+  },
+  {
+    "cbsa": 39300,
+    "metro": "Providence-Warwick, RI-MA",
+    "yf_per1000": 0.0093,
+    "sci": 22.5267
+  },
+  {
+    "cbsa": 20100,
+    "metro": "Dover, DE",
+    "yf_per1000": 0.06931,
+    "sci": 22.47979
+  },
+  {
+    "cbsa": 15380,
+    "metro": "Buffalo-Cheektowaga, NY",
+    "yf_per1000": 0.02727,
+    "sci": 22.28929
+  },
+  {
+    "cbsa": 42200,
+    "metro": "Santa Maria-Santa Barbara, CA",
+    "yf_per1000": 0.14447,
+    "sci": 21.77332
+  },
+  {
+    "cbsa": 16820,
+    "metro": "Charlottesville, VA",
+    "yf_per1000": 0.21721,
+    "sci": 21.73472
+  },
+  {
+    "cbsa": 22660,
+    "metro": "Fort Collins, CO",
+    "yf_per1000": 0.02417,
+    "sci": 20.96812
+  },
+  {
+    "cbsa": 24340,
+    "metro": "Grand Rapids-Kentwood, MI",
+    "yf_per1000": 0.00958,
+    "sci": 20.69146
+  },
+  {
+    "cbsa": 32820,
+    "metro": "Memphis, TN-MS-AR",
+    "yf_per1000": 0.03893,
+    "sci": 20.47674
+  },
+  {
+    "cbsa": 39900,
+    "metro": "Reno, NV",
+    "yf_per1000": 0.02892,
+    "sci": 19.99267
+  },
+  {
+    "cbsa": 30780,
+    "metro": "Little Rock-North Little Rock-Conway, AR",
+    "yf_per1000": 0.02054,
+    "sci": 19.8526
+  },
+  {
+    "cbsa": 16700,
+    "metro": "Charleston-North Charleston, SC",
+    "yf_per1000": 0.06181,
+    "sci": 19.7003
+  },
+  {
+    "cbsa": 10740,
+    "metro": "Albuquerque, NM",
+    "yf_per1000": 0.0221,
+    "sci": 19.68857
+  },
+  {
+    "cbsa": 35300,
+    "metro": "New Haven-Milford, CT",
+    "yf_per1000": 0.05104,
+    "sci": 18.98936
+  },
+  {
+    "cbsa": 39100,
+    "metro": "Poughkeepsie-Newburgh-Middletown, NY",
+    "yf_per1000": 0.01187,
+    "sci": 18.91462
+  },
+  {
+    "cbsa": 40140,
+    "metro": "Riverside-San Bernardino-Ontario, CA",
+    "yf_per1000": 0.00581,
+    "sci": 18.78117
+  },
+  {
+    "cbsa": 45940,
+    "metro": "Trenton-Princeton, NJ",
+    "yf_per1000": 0.07232,
+    "sci": 18.29929
+  },
+  {
+    "cbsa": 41180,
+    "metro": "St. Louis, MO-IL",
+    "yf_per1000": 0.0107,
+    "sci": 18.23838
+  },
+  {
+    "cbsa": 27060,
+    "metro": "Ithaca, NY",
+    "yf_per1000": 0.03831,
+    "sci": 17.77602
+  },
+  {
+    "cbsa": 40340,
+    "metro": "Rochester, MN",
+    "yf_per1000": 0.01865,
+    "sci": 17.77602
+  },
+  {
+    "cbsa": 13820,
+    "metro": "Birmingham-Hoover, AL",
+    "yf_per1000": 0.03892,
+    "sci": 17.64307
+  },
+  {
+    "cbsa": 40060,
+    "metro": "Richmond, VA",
+    "yf_per1000": 0.02004,
+    "sci": 16.89303
+  },
+  {
+    "cbsa": 35840,
+    "metro": "North Port-Sarasota-Bradenton, FL",
+    "yf_per1000": 0.01562,
+    "sci": 16.5675
+  },
+  {
+    "cbsa": 37100,
+    "metro": "Oxnard-Thousand Oaks-Ventura, CA",
+    "yf_per1000": 0.02123,
+    "sci": 16.51387
+  },
+  {
+    "cbsa": 26980,
+    "metro": "Iowa City, IA",
+    "yf_per1000": 0.07206,
+    "sci": 16.0751
+  },
+  {
+    "cbsa": 23540,
+    "metro": "Gainesville, FL",
+    "yf_per1000": 0.06629,
+    "sci": 15.66855
+  },
+  {
+    "cbsa": 42100,
+    "metro": "Santa Cruz-Watsonville, CA",
+    "yf_per1000": 0.04391,
+    "sci": 15.50481
+  },
+  {
+    "cbsa": 49340,
+    "metro": "Worcester, MA-CT",
+    "yf_per1000": 0.01604,
+    "sci": 15.09894
+  },
+  {
+    "cbsa": 24860,
+    "metro": "Greenville-Anderson, SC",
+    "yf_per1000": 0.01834,
+    "sci": 15.09894
+  },
+  {
+    "cbsa": 16860,
+    "metro": "Chattanooga, TN-GA",
+    "yf_per1000": 0.03465,
+    "sci": 14.72218
+  },
+  {
+    "cbsa": 28940,
+    "metro": "Knoxville, TN",
+    "yf_per1000": 0.01906,
+    "sci": 14.56019
+  },
+  {
+    "cbsa": 35380,
+    "metro": "New Orleans-Metairie, LA",
+    "yf_per1000": 0.00635,
+    "sci": 14.16307
+  },
+  {
+    "cbsa": 40380,
+    "metro": "Rochester, NY",
+    "yf_per1000": 0.01758,
+    "sci": 13.9911
+  },
+  {
+    "cbsa": 17820,
+    "metro": "Colorado Springs, CO",
+    "yf_per1000": 0.01288,
+    "sci": 13.69269
+  },
+  {
+    "cbsa": 36540,
+    "metro": "Omaha-Council Bluffs, NE-IA",
+    "yf_per1000": 0.02078,
+    "sci": 13.18391
+  },
+  {
+    "cbsa": 10900,
+    "metro": "Allentown-Bethlehem-Easton, PA-NJ",
+    "yf_per1000": 0.006,
+    "sci": 12.16636
+  },
+  {
+    "cbsa": 16580,
+    "metro": "Champaign-Urbana, IL",
+    "yf_per1000": 0.02228,
+    "sci": 12.16636
+  },
+  {
+    "cbsa": 27260,
+    "metro": "Jacksonville, FL",
+    "yf_per1000": 0.00276,
+    "sci": 12.16636
+  },
+  {
+    "cbsa": 31140,
+    "metro": "Louisville/Jefferson County, KY-IN",
+    "yf_per1000": 0.00401,
+    "sci": 12.16636
+  },
+  {
+    "cbsa": 46060,
+    "metro": "Tucson, AZ",
+    "yf_per1000": 0.00496,
+    "sci": 12.16636
+  },
+  {
+    "cbsa": 10420,
+    "metro": "Akron, OH",
+    "yf_per1000": 0.01137,
+    "sci": 12.09865
+  },
+  {
+    "cbsa": 13980,
+    "metro": "Blacksburg-Christiansburg, VA",
+    "yf_per1000": 0.02406,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 14580,
+    "metro": "Bozeman, MT",
+    "yf_per1000": 0.03971,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 25720,
+    "metro": "Heber, UT",
+    "yf_per1000": 0.05794,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 41540,
+    "metro": "Salisbury, MD-DE",
+    "yf_per1000": 0.01013,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 45060,
+    "metro": "Syracuse, NY",
+    "yf_per1000": 0.0091,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 47260,
+    "metro": "Virginia Beach-Norfolk-Newport News, VA-NC",
+    "yf_per1000": 0.00228,
+    "sci": 12.03093
+  },
+  {
+    "cbsa": 48900,
+    "metro": "Wilmington, NC",
+    "yf_per1000": 0.02162,
+    "sci": 12.03093
+  }
+]
