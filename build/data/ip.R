@@ -10,4 +10,9 @@ corrs <- read_excel(fyle, sheet="chart 1", range="A11:D13", col_names=c("correla
 
 json <- toJSON(list(table=techiest, map=map_data, chart=corrs), digits=5, pretty=TRUE, na="null")
 
-writeLines(json, con="/home/alec/Projects/Brookings/blogs/startup-complexity/assets/json/startup_complexity.json")
+write_json(map_data, "/home/alec/Projects/Brookings/blogs/startup-complexity/assets/json/map_data.json", digits=5, pretty=TRUE, na="null")
+write_json(techiest, "/home/alec/Projects/Brookings/blogs/startup-complexity/assets/json/techiest.json", digits=5, pretty=TRUE, na="null")
+write_json(corrs, "/home/alec/Projects/Brookings/blogs/startup-complexity/assets/json/corrs.json", digits=5, pretty=TRUE, na="null")
+
+
+  
