@@ -1,20 +1,47 @@
 [
   {
     "correlate": "Average annual wage",
-    "ba_share": 0.4291,
-    "pci": 0.67669,
-    "sci": 0.73006
+    "name": "sci",
+    "value": 0.73006
+  },
+  {
+    "correlate": "Average annual wage",
+    "name": "pci",
+    "value": 0.67669
+  },
+  {
+    "correlate": "Average annual wage",
+    "name": "ba_share",
+    "value": 0.4291
   },
   {
     "correlate": "Median income",
-    "ba_share": 0.39606,
-    "pci": 0.52168,
-    "sci": 0.59786
+    "name": "sci",
+    "value": 0.59786
+  },
+  {
+    "correlate": "Median income",
+    "name": "pci",
+    "value": 0.52168
+  },
+  {
+    "correlate": "Median income",
+    "name": "ba_share",
+    "value": 0.39606
   },
   {
     "correlate": "Output per job",
-    "ba_share": 0.31376,
-    "pci": 0.61684,
-    "sci": 0.71569
+    "name": "sci",
+    "value": 0.71569
+  },
+  {
+    "correlate": "Output per job",
+    "name": "pci",
+    "value": 0.61684
+  },
+  {
+    "correlate": "Output per job",
+    "name": "ba_share",
+    "value": 0.31376
   }
 ]

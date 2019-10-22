@@ -1,5 +1,6 @@
 import degradation from "../../../../js-modules/degradation.js";
 import metro_map from "./metro-map.js";
+import bar_chart from "./bar-chart.js";
 
 //main function
 function main(){
@@ -17,6 +18,7 @@ function main(){
       filter2.append("feBlend").attr("in","SourceGraphic").attr("in2","blurout").attr("mode","normal"); 
 
   metro_map(root_el);
+  bar_chart(document.getElementById("interactive-chart"));
   
   //d3.selectAll("p.map-action-call").style("display","block");
 

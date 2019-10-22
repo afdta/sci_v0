@@ -1,5 +1,3 @@
-import analytics from "../../../../js-modules/analytics.js";
-
 export default function vview(spec, container, callback, download_anchor){
     
     //theme
@@ -7,18 +5,28 @@ export default function vview(spec, container, callback, download_anchor){
     var theme = {
     "text":{
         "font": fontFamily,
-        "fontSize":13,
-        "fill":"#101010"
+        "fontSize":15,
+        "fill":"#4c4c4c"
         },
     "legend":{
         "layout":{
-            "margin": 45,
-            "anchor": "middle"
+            "anchor": "start"
             },
         "titleFontWeight": "700",
-        "titleColor": "#444444",
-        "labelColor": "#444444"
-        }
+        "titleColor": "#4c4c4c",
+        "labelColor": "#4c4c4c",
+        "titleFont": fontFamily,
+        "titleFontSize": 16,
+        "labelFont": fontFamily,
+        "labelFontSize": 15,
+        "columnPadding":20
+        },
+    "axis":{
+        "labelFont": fontFamily,
+        "labelFontSize": 15,
+        "labelFontColor": "#4c4c4c",
+        "titleFontColor": "#4c4c4c"
+    }
     }
 
     //download options
@@ -46,16 +54,16 @@ export default function vview(spec, container, callback, download_anchor){
             }
 
             if(typeof callback === "function"){
-                callback.call(container);
+                callback.call(container, view);
             }
         })
         ;
 
-    view.addSignalListener("map_hover", function(a,b){
-        if(b !== null){
-            analytics("map_hover", b);
-        }
-    })
+
+    view.addDataListener("table", function(a,b){
+        console.log(a);
+        console.log(b.filter(function(a){return a.centroid == null}));
+    });
 
     //render as png
     function toURL(){

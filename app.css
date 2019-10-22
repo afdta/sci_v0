@@ -1,0 +1,198 @@
+.metro-interactive{
+    padding:0px 10px 0px 0px;
+    margin:2em auto 2em auto;
+
+    -webkit-column-break-inside: avoid; 
+    page-break-inside: avoid; 
+    break-inside: avoid; 
+
+    max-width:1200px;
+}
+
+.metro-interactive text tspan{
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+}
+
+.metro-interactive .c-fix:after{
+    content:"";
+    display:table;
+    clear:both;
+}
+
+.rm-this{
+    display:none;
+}
+
+.metro-interactive span, .metro-interactive a, .metro-interactive em, .metro-interactive strong{
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+}
+
+
+.metro-interactive g.anno text,
+.metro-interactive g.anno0 text{
+    font-size:11px;
+    font-weight:bold;
+}
+
+.metro-interactive .chart-subtitle{
+    font-family: franklin-gothic-urw,helvetica,sans-serif;
+    margin:5px 0px 5px 0px;
+    font-size:1em;
+    font-style:italic;
+}
+
+/*chart containers: title area, chart area, notes area*/
+.metro-interactive .chart-titles{
+    padding:15px 0px 10px 15px;
+    border-bottom:1px solid #aaaaaa;
+    max-width:1200px;
+    margin:0rem auto 0rem auto;
+    border-radius:0px;
+}
+.metro-interactive .chart-titles:after{
+    display:table;
+    clear:both;
+    content:"";
+}
+
+.metro-interactive .chart-titles *{
+    font-family: franklin-gothic-urw,helvetica,sans-serif;
+    font-size: 1.25em;
+}
+
+.metro-interactive .chart-titles span{
+    white-space: nowrap;
+    font-family:inherit;
+    font-size:inherit;
+}
+
+.metro-interactive.chart-container, 
+.metro-interactive .chart-container{
+    padding:0px;
+    margin:12px auto 0px auto;
+    max-width:1200px;
+    min-width:450px;
+}
+
+.metro-interactive .chart-notes{
+    max-width:1200px;
+    margin:0px auto;
+    padding:10px 15px;
+    position:relative;
+}
+
+.metro-interactive .chart-notes:before{
+    content:"";
+    position:absolute;
+    top:7px;
+    width:calc(100% - 30px);
+    height:1px;
+    background-color:#aaaaaa;
+}
+/*end map containers*/
+
+.metro-interactive .chart-notes p{
+    font-family: franklin-gothic-urw,helvetica,sans-serif;
+    line-height:1.3em;
+    margin:5px 0px 0px 5px;
+    max-width:1100px;
+    font-size:15px;
+    font-style:italic;
+    color: #4c4c4c;
+}
+
+.metro-interactive .chart-titles .chart-title{
+    text-transform:uppercase;
+    margin:0px auto 0px 0px;
+    padding:3px 0px;
+    text-align:left;
+    color: #4c4c4c;
+    font-weight:bold;
+    line-height:1.55em;
+    clear:both;
+}
+
+.metro-interactive .chart-titles p.chart-number, 
+.metro-interactive .chart-titles p.chart-link{
+    margin:0px 5px 5px 0px;
+    padding:4px 7px 4px 7px;
+    float:left;
+    text-transform:uppercase;
+    font-size:0.7em;
+    border:none;
+    font-style:normal;
+}
+
+.metro-interactive .chart-titles p.chart-number{
+    background-color:#030814;
+    color:#ffffff;
+    border-radius:5px;
+}
+
+.metro-interactive .chart-titles p.chart-link.inactive-chart-download{
+    display:none;
+}
+.metro-interactive .chart-titles p.chart-link a{
+    text-decoration:none;
+    border:none;
+    color:#555555;
+}
+
+.metro-interactive .chart-titles p.chart-link a:after{
+    content:" »";
+}
+
+.metro-interactive .chart-titles p.chart-action-call{
+    color:#555555;
+    margin:3px 0px 0px 0px;
+    font-size:0.7em;
+    text-transform:uppercase;
+    display:none;
+}
+
+
+
+@media (min-width:780px){
+    .metro-interactive g.anno text,
+    .metro-interactive g.anno0 text{
+        font-size:12px !important;
+    }  
+    .metro-interactive{
+        padding:0px 10px;
+    }
+    .metro-interactive .chart-titles{
+        padding:15px 0px 10px 32px;
+    }
+}
+
+@media (min-width:1024px){
+    .metro-interactive g.anno text,
+    .metro-interactive g.anno0 text{
+        font-size:14px !important;
+    }  
+}
+
+@media print{
+    .metro-interactive{
+        border-bottom:1px solid #aaaaaa;
+        margin-bottom:48px;
+        padding:0px 0px 15px 0px;
+    }
+
+    .metro-interactive .chart-titles p.chart-number{
+        background-color:transparent;
+        color:#4c4c4c;
+        font-size:1em;
+        font-weight:normal;
+        padding-left:0px;
+    }
+
+    .metro-interactive .chart-titles p.chart-link{
+        display:none;
+    }
+
+}
