@@ -85,7 +85,8 @@
 	        },
 	    "legend":{
 	        "layout":{
-	            "anchor": "start"
+	            "anchor": "start",
+	            "margin":40
 	            },
 	        "titleFontWeight": "700",
 	        "titleColor": "#4c4c4c",
