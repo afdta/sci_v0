@@ -762,6 +762,12 @@
 	            "range": ["#4da79e",
 	            "#fcd74e",
 	            "#cacaca"]
+	          },
+	          {
+	            "name": "labeler",
+	            "type": "ordinal",
+	            "domain": ["sci", "pci", "ba_share"],
+	            "range": ["Startup Complexity Index", "Patent Complexity Index", "Bachelor's+ attainment"]
 	          }
 	        ],
 
@@ -867,6 +873,9 @@
 	                    "y": {"scale": "yscale", "field": "value"},
 	                    "y2": {"scale": "yscale", "value": 0},
 	                    "fill": {"scale": "color", "field": "name"}
+	                  },
+	                  "enter":{
+	                    "tooltip": {"signal": "'Correlation: ' + datum.correlate + ' with ' + scale('labeler',datum.name) + ': ' + format(datum.value, '.2f') "}
 	                  }
 	                }
 	              },
